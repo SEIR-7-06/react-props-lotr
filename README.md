@@ -25,11 +25,14 @@ The Fellowship of the Ring | 2 | 58
 The Two Towers | 2 | 59
 The Return of the King | 3 | 21
 
-Update your `Movie` component to display these props. 
+Update your `Movie` component to receive and display these props on the page.
+
+<br>
 
 ---
 
-### Reflecting on Reusability
+### Reflections on Reusability
+
 Components are great because they allow us to compartmentalize code and easily reuse parts we create. We simply set the value of props and the component defines how everything should be displayed.
 
 In this instance, we factored out some redundancy of the
