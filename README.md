@@ -29,6 +29,11 @@ Update your `Movie` component to receive and display these props on the page.
 
 <br>
 
+## Hungry for More?
+
+- See if you can store your movie data in an array in your App.js file and pass in props from your array.
+- See if you can store your movie data in an array in your App.js file and then loop through that array to generate a `Movie` component for every item in the array.
+
 ---
 
 ### Reflections on Reusability
